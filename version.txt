@@ -1,4 +1,4 @@
-4.0
+4.1
 Modo prueba: manda 3 correos a tu correo antes del envio real.
 Aviso automatico de versiones nuevas.
 Formularios con nuevo diseno e instalador renovado.
